@@ -11,7 +11,7 @@ comments: true
 <div style="display:inline-block;">I love AI, and CI/CD with Docker, Kubernetes, and software architecture.</div>
 <br>
 <div style="display:inline-block;">I graduated from Bogazici University</div>
-<bt>
+<br>
 </p>
 <p>
 <i class="fab fa-twitter" style="margin-right: 20px;"><a target="_blank" href="https://twitter.com/aslindakeren" class="article-post" style="margin-left: 10px;">@aslindakeren</a></i>
