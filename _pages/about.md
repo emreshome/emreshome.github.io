@@ -1,35 +1,25 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About
 permalink: /about
 comments: true
 ---
 
 <div class="row justify-content-between">
-<div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>
+Hello! I am Emre Eren, I love AI, and CI/CD with Docker, Kubernetes, and software architecture.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+I graduated from Bogazici University
+</p>
+<p>
 
-<h4>Questions or bug reports?</h4>
+<i class="fab fa-twitter" style="margin-right: 20px;"><a target="_blank" href="https://twitter.com/aslindakeren" class="article-post" style="margin-left: 10px;">@aslindakeren</a></i>
+<i class="fab fa-github" style="margin-right: 20px;"><a target="_blank" href="https://github.com/emreshome" class="article-post" style="margin-left: 10px;">emreshome</a></i>
+<i class="fab fa-linkedin" style="margin-right: 20px;"><a target="_blank" href="https://www.linkedin.com/in/emre-eren-1b0b37109/" class="article-post" style="margin-left: 10px;">Emre Eren</a></i>
+</p>
+<h4><a href="mailto:emre.eren95@outlook.com">Mail me</a></h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
 
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
 </div>
